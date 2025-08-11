@@ -1,0 +1,35 @@
+# Archivos sensibles
+token.json
+credentials.json
+config.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Entornos virtuales
+venv/
+.env/
+.env*/  
+*.env
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación o paquetes
+build/
+dist/
+*.egg-info/
+
+# Archivos de IDEs
+.vscode/
+.idea/
+*.swp
