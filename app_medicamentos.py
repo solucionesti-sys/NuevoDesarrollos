@@ -2,7 +2,7 @@
 Sistema de Entrega de Medicamentos
 -----------------------------------
 Versión: 1.0
-Autor: [Santiago Martinez-Ing.Soluciones TI]
+Autor: [Santiago Martinez.]
 Fecha: 2025-08-11
 
 Descripción:
